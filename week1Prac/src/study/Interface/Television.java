@@ -1,4 +1,4 @@
-package Interface;
+package study.Interface;
 
 public class Television implements ElectroDevice {
     @Override

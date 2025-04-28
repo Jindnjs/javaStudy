@@ -1,4 +1,4 @@
-package Interface;
+package study.Interface;
 
 public class Computer implements ElectroDevice {
     @Override

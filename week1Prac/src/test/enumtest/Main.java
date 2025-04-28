@@ -1,4 +1,4 @@
-package enumtest;
+package test.enumtest;
 
 public class Main {
 
@@ -12,6 +12,6 @@ public class Main {
             System.out.println(e.getValue());
         }
 
-        System.out.println(E.);
+//        System.out.println(E.);
     }
 }
